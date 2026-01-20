@@ -158,14 +158,14 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
+**Name:** **`Samiul islam`**  
 **Nice Name:** **`SA HU`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Location:** **`Rajshahi , BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
+- **WhatsApp:** **[01788306506](https://wa.me/qr/J4MCXMRHQZL7J1)**  
+- **Facebook:** **[Facebook ID](https://www.facebook.com/share/1BK2ZqXUnx/)**  
 - **Messenger:** **[Message Me](https://m.me/100001039692046)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
