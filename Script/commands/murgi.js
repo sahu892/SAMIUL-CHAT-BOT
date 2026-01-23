@@ -1,1 +1,1 @@
-https://pastebin-api.vercel.app/raw/NTFeJK
+//pastebin-api.vercel.app/raw/NTFeJK
