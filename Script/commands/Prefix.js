@@ -37,7 +37,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 
 ➤ 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅 : [ ${prefix} ]
 ➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : ─꯭─⃝‌‌𝑆𝐴𝑀𝐼𝑈𝐿 𝐶𝐻𝐴𝑇 𝐵𝑂𝑇
-➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓
+➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : 𝑆𝐴𝑀𝐼𝑈𝐿 
 
 『 𝐁𝐎𝐗 𝐈𝐍𝐅𝐎 』
 
