@@ -65,9 +65,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍─꯭─⃝‌‌𝑆𝐴𝑀𝐼𝑈𝐿 𝐶ℎ𝑎𝑡 𝐵𝑜𝑡😘`;
 
  const imgLinks = [
- "https://i.imgur.com/zqsuJnX.jpeg",
- "https://i.imgur.com/sxSn1K3.jpeg",
- "https://i.imgur.com/wu0iDqS.jpeg",
+ "",
+ "",
+ "",
  "https://i.imgur.com/Huz3nAE.png"
  ];
 
