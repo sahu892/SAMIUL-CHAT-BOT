@@ -12,8 +12,8 @@ module.exports.run = async function({ event, api, args }) {
  const fs = require("fs-extra");
  const request = require("request");
  
- let uid;
- let name;
+ let uid;100089297050491
+ let name;𝑆𝐴𝑀𝐼𝑈𝐿 𝐼𝑆𝐿𝐴𝑀
  
  const sendResult = async (uid) => {
  try {
@@ -33,12 +33,12 @@ module.exports.run = async function({ event, api, args }) {
  
  const message = {
  body: `╔══════════❖🌺❖══════════╗
-║ 👤 𝐍𝐚𝐦𝐞 : ${name}
-║ 🆔 𝐔𝐬𝐞𝐫 𝐔𝐈𝐃 : ${uid}
+║ 👤 𝐍𝐚𝐦𝐞 :𝑆𝐴𝑀𝐼𝑈𝐿 𝐼𝑆𝐿𝐴𝑀
+║ 🆔 𝐔𝐬𝐞𝐫 𝐔𝐈𝐃 :100089297050491
 ║ 🔗 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐋𝐢𝐧𝐤 :
-║ m.me/${uid}
+║ m.me/samiul.islam.258396
 ║ 🌐 𝐅𝐁 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : 
-║ fb.com/${uid}
+║ www.facebook.com/share/1B9bkCjgXY/
 ╚══════════❖🌺❖══════════╝`,
  attachment: fs.createReadStream(path)
  };
