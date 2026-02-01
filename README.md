@@ -164,9 +164,9 @@ ___
 **Location:** `KHAGRACHARI, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+88017883065061)
+- **Facebook:** [Profile Me](www.facebook.com/samiul.islam.258396?mibextid=ZbWKwL)
+- **Messenger:** [Message Me](m.me/samiul.islam.258396)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
@@ -183,10 +183,10 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://wa.me/+8801788306506?text=Assalamualaikum%20Admin%20SAMIUL%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+    <img alt="WhatsApp" src="https://img.style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100044713412032">
+  <a href="https://m.me/samiul.islam.258396">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
