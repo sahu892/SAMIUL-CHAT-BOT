@@ -36,7 +36,7 @@ module.exports.run = async function ({ api, event }) {
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 ║ wa.me/01788306506
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ dbo na
+║ dmu na
 ╚═════════════════════ ✿
 `;
 
@@ -44,7 +44,7 @@ module.exports.run = async function ({ api, event }) {
     "",
     "",
     "",
-    "https://i.imgur.com/z6G6L4c.jpeg"
+    ""
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
