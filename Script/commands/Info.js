@@ -65,7 +65,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍─꯭─⃝‌‌𝑆𝐴𝑀𝐼𝑈𝐿 𝐶ℎ𝑎𝑡 𝐵𝑜𝑡😘`;
 
  const imgLinks = [
- "",
+ "![IMG_20260131_104934](https://github.com/user-attachments/assets/8ca81da4-c57a-4460-92ff-148b934f8597)",
  "",
  "",
  ""
