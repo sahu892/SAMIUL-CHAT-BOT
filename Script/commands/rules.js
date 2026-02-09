@@ -32,7 +32,7 @@ module.exports.run = async ({ api, event }) => {
 𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽: SHAHADAT SAHU
 𝙵𝙱 𝙻𝙸𝙽𝙺: https://www.facebook.com/share/1CEdQNRSNA/
 
-_সাথেই থাকুন 🌺─꯭─⃝‌‌𝑆𝑎𝑚𝑖𝑢𝑙 𝑖𝑠𝑙𝑎𝑚🌸_
+_সাথেই থাকুন 🌺─꯭─⃝‌‌𝑆𝑎𝑚𝑖𝑢𝑙 𝑖𝑠𝑙𝑎𝑚 𝐶ℎ𝑎𝑡 𝑏𝑜𝑡🌸_
 
 💖...........ধন্যবাদ সবাইকে...........💖`;
 
