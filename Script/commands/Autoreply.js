@@ -8,7 +8,7 @@ module.exports.config = {
   name: "autoreplybot",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "𝑆𝑎𝑚𝑖𝑢𝑙 𝑖𝑠𝑙𝑎𝑚",
   usePrefix: false,
   commandCategory: "Chat",
   cooldowns: 0
@@ -31,7 +31,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "good night": "Sweet Dream babu… তবে আগে সামিউল বস কে GN বলে নিও 😏💤",
     "tor ball": "~ ছি কি বলো এইসব?? 🤖",
-    "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    "Samiul": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝑆𝑎𝑚𝑖𝑢𝑙 𝑖𝑠𝑙𝑎𝑚 ☜\nFacebook: https://www.facebook.com/share/1CEdQNRSNA/\nWhatsApp: +8801788306506",
     "admin": "He is 𝑆𝑎𝑚𝑖𝑢𝑙 𝑖𝑠𝑙𝑎𝑚 তাকে সবাই Admin 𝑆𝑎𝑚𝑖𝑢𝑙 হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
